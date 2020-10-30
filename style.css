@@ -57,19 +57,15 @@ h3 {
 }
 
 p, li {
-  font-size: 3rem;
+  font-size: 1.5rem;
   line-height: 1.5;
 }
 
-.my_test{
-  font-family: 'Caveat', cursive;
-  font-family: 'ZCOOL XiaoWei', serif;
-  font-size: 90%;
-}
+article p{
+  font-size: 2rem;
 
-figure{
-  display: block;
-  margin-top: 10px;
+  font-family: 'Dancing Script','ZCOOL XiaoWei', serif;
+
 }
 
 figcaption{
@@ -189,7 +185,7 @@ footer {
 footer p{
   display: inline;
 
-  border: 10px solid #e26de2;
+  border: 0.2rem solid #e26de2;
   border-radius: 5px;
 }
 
